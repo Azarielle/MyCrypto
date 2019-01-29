@@ -7,7 +7,7 @@
 
 ## Requirements
 
-* Node 8.9.4\*
+* Node 8.9.3\*
 * Yarn >= 1.7.0\*\*
 * Python 2.7.X\*\*\*
 
